@@ -1,0 +1,58 @@
+2024-06-26 13:30:57.806794: Функция flat_generator вызвана с аргументами ([[['a'], ['b', 'c']], ['d', 'e', [['f'], 'h'], False], [1, 2, None, [[[[['!']]]]], []]],), {}
+Функция ввернула результат <generator object flat_generator at 0x0000028FAC5CA9E0>
+2024-06-26 13:30:57.807797: Функция flat_generator вызвана с аргументами ([['a'], ['b', 'c']],), {}
+Функция ввернула результат <generator object flat_generator at 0x0000028FAC5CA9E0>
+2024-06-26 13:30:57.807797: Функция flat_generator вызвана с аргументами (['a'],), {}
+Функция ввернула результат <generator object flat_generator at 0x0000028FAC5CA9E0>
+2024-06-26 13:30:57.808798: Функция flat_generator вызвана с аргументами (['b', 'c'],), {}
+Функция ввернула результат <generator object flat_generator at 0x0000028FAC5CA9E0>
+2024-06-26 13:30:57.809795: Функция flat_generator вызвана с аргументами (['d', 'e', [['f'], 'h'], False],), {}
+Функция ввернула результат <generator object flat_generator at 0x0000028FAC5CAF90>
+2024-06-26 13:30:57.809795: Функция flat_generator вызвана с аргументами ([['f'], 'h'],), {}
+Функция ввернула результат <generator object flat_generator at 0x0000028FAC5CAF90>
+2024-06-26 13:30:57.810798: Функция flat_generator вызвана с аргументами (['f'],), {}
+Функция ввернула результат <generator object flat_generator at 0x0000028FAC606040>
+2024-06-26 13:30:57.810798: Функция flat_generator вызвана с аргументами ([1, 2, None, [[[[['!']]]]], []],), {}
+Функция ввернула результат <generator object flat_generator at 0x0000028FAC5CA9E0>
+2024-06-26 13:30:57.810798: Функция flat_generator вызвана с аргументами ([[[[['!']]]]],), {}
+Функция ввернула результат <generator object flat_generator at 0x0000028FAC5CA9E0>
+2024-06-26 13:30:57.811799: Функция flat_generator вызвана с аргументами ([[[['!']]]],), {}
+Функция ввернула результат <generator object flat_generator at 0x0000028FAC606200>
+2024-06-26 13:30:57.811799: Функция flat_generator вызвана с аргументами ([[['!']]],), {}
+Функция ввернула результат <generator object flat_generator at 0x0000028FAC606200>
+2024-06-26 13:30:57.812796: Функция flat_generator вызвана с аргументами ([['!']],), {}
+Функция ввернула результат <generator object flat_generator at 0x0000028FAC61C900>
+2024-06-26 13:30:57.812796: Функция flat_generator вызвана с аргументами (['!'],), {}
+Функция ввернула результат <generator object flat_generator at 0x0000028FAC61C900>
+2024-06-26 13:30:57.812796: Функция flat_generator вызвана с аргументами ([],), {}
+Функция ввернула результат <generator object flat_generator at 0x0000028FAC5CA9E0>
+2024-06-26 13:30:57.812796: Функция flat_generator вызвана с аргументами ([[['a'], ['b', 'c']], ['d', 'e', [['f'], 'h'], False], [1, 2, None, [[[[['!']]]]], []]],), {}
+Функция ввернула результат <generator object flat_generator at 0x0000028FAC5CAEB0>
+2024-06-26 13:30:57.813799: Функция flat_generator вызвана с аргументами ([['a'], ['b', 'c']],), {}
+Функция ввернула результат <generator object flat_generator at 0x0000028FAC5CAEB0>
+2024-06-26 13:30:57.813799: Функция flat_generator вызвана с аргументами (['a'],), {}
+Функция ввернула результат <generator object flat_generator at 0x0000028FAC5CAEB0>
+2024-06-26 13:30:57.813799: Функция flat_generator вызвана с аргументами (['b', 'c'],), {}
+Функция ввернула результат <generator object flat_generator at 0x0000028FAC5CAEB0>
+2024-06-26 13:30:57.814797: Функция flat_generator вызвана с аргументами (['d', 'e', [['f'], 'h'], False],), {}
+Функция ввернула результат <generator object flat_generator at 0x0000028FAC5CA9E0>
+2024-06-26 13:30:57.814797: Функция flat_generator вызвана с аргументами ([['f'], 'h'],), {}
+Функция ввернула результат <generator object flat_generator at 0x0000028FAC5CA9E0>
+2024-06-26 13:30:57.814797: Функция flat_generator вызвана с аргументами (['f'],), {}
+Функция ввернула результат <generator object flat_generator at 0x0000028FAC606040>
+2024-06-26 13:30:57.815797: Функция flat_generator вызвана с аргументами ([1, 2, None, [[[[['!']]]]], []],), {}
+Функция ввернула результат <generator object flat_generator at 0x0000028FAC5CAEB0>
+2024-06-26 13:30:57.815797: Функция flat_generator вызвана с аргументами ([[[[['!']]]]],), {}
+Функция ввернула результат <generator object flat_generator at 0x0000028FAC5CAEB0>
+2024-06-26 13:30:57.815797: Функция flat_generator вызвана с аргументами ([[[['!']]]],), {}
+Функция ввернула результат <generator object flat_generator at 0x0000028FAC606200>
+2024-06-26 13:30:57.815797: Функция flat_generator вызвана с аргументами ([[['!']]],), {}
+Функция ввернула результат <generator object flat_generator at 0x0000028FAC606200>
+2024-06-26 13:30:57.816794: Функция flat_generator вызвана с аргументами ([['!']],), {}
+Функция ввернула результат <generator object flat_generator at 0x0000028FAC61C970>
+2024-06-26 13:30:57.816794: Функция flat_generator вызвана с аргументами (['!'],), {}
+Функция ввернула результат <generator object flat_generator at 0x0000028FAC61C970>
+2024-06-26 13:30:57.817795: Функция flat_generator вызвана с аргументами ([],), {}
+Функция ввернула результат <generator object flat_generator at 0x0000028FAC5CAEB0>
+2024-06-26 13:30:57.817795: Функция flat_generator вызвана с аргументами ([[['a'], ['b', 'c']], ['d', 'e', [['f'], 'h'], False], [1, 2, None, [[[[['!']]]]], []]],), {}
+Функция ввернула результат <generator object flat_generator at 0x0000028FAC5CAF90>
